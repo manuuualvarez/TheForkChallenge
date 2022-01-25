@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "3e5fc5d8ae939b655929a0edd60d3bb70f38027f",
+          "version": null
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": "master",
+          "revision": "15dde451f97a8ae18ea4f94969b7c8546f034b37",
+          "version": null
+        }
+      },
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios",
+        "state": {
+          "branch": "master",
+          "revision": "8585e89bc5a3ad5512ad57248e86996ee6f881f6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
